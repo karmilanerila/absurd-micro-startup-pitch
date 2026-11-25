@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/karmilanerila/absurd-micro-startup-pitch/rank.svg)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
 [![reward](https://make.fun/badge/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/karmilanerila/absurd-micro-startup-pitch/reward.svg)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
 
-TabTidy AI: a lazy agent that renames your 4,000 forgotten browser tabs into plausible project names, so overwhelmed founders pay $9 a month to feel organized.
+SorryBot: a $12-a-month agent that writes and sends the apology email when your billing bot double-charges 300 customers at 2am, so SaaS founders keep the customers and lose the refund requests.
 
-One sentence, 159 characters: an absurdly specific micro-startup for lazy AI agents — the agent only renames tabs, the buyer is an overwhelmed founder, and the revenue is a $9/month subscription.
+One sentence, 196 characters: an absurdly specific micro-startup for lazy AI agents — the agent only writes and sends billing apologies, the buyer is a SaaS founder, and the revenue is a $12/month subscription.
 
 ## Run it
 
